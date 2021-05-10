@@ -1,0 +1,119 @@
+Hello! Welcome to Evite Party Planner.
+
+Login or Create an Account:
+1. Create an Account
+2. Login
+
+> 1
+
+You selected to Create An Account! Please provide the following information...
+
+Email:
+> caxu@usc.edu
+
+Full Name:
+> Connie Xu
+
+Password:
+> password123
+
+Hello Connie! Welcome to Evite Party Planner. Do you want to...
+
+1. Check Evite Status
+2. Make a New Party
+3. Check Parties
+4. RSVP to a Party
+5. Logout
+
+> 1
+
+You are a "Registered User"!
+
+1. Check Evite Status
+2. Make a New Party
+3. Check Parties
+4. RSVP to a Party
+5. Logout
+
+> 2
+
+You selected to make a new party. What type of party is this?
+1. Graduation Party
+2. Block Party
+3. Dinner Party
+4. Prom Party
+
+> 4
+
+Name of party:
+
+> USC's Prom
+
+Location of Party:
+
+> Los Angeles, CA 90007
+
+Time of Party (xx/xx/xxxx):
+
+> 05/01/2021
+
+Number of Invites:
+
+> 32
+
+Do guests need to bring gifts (y/n)?
+
+> y
+
+Theme Options:
+1. CARNIVAL
+2. STARRYNIGHT
+3. UNDERTHESEA
+4. THROWBACKS
+5. WINTERBALL
+6. MEDIEVAL
+7. ENCHANTEDFOREST
+
+> 3
+
+Your party has been created. ["USC's Prom", [Los Angeles, CA 90007], 05/01/2021, 32 People, UNDERTHESEA]
+
+You have invites to 32 guests.
+
+1. Check Evite Status
+2. Make a New Party
+3. Check Parties
+4. RSVP to a Party
+5. Logout
+
+> 3
+
+You have 2 party invites:
+ 1. ["USC's Prom", [Los Angeles, California, 90007], 05/01/2021, 32 People, UNDERTHESEA Theme]
+ 2. ["Ellendale Dinner Party", [Ellendale Place, Los Angeles, California], 04/21/2021, 5 People]
+
+1. Check Evite Status
+2. Make a New Party
+3. Check Parties
+4. RSVP to a Party
+5. Logout
+
+> 4
+
+RSVP to...
+ 1. ["USC's Prom", [Los Angeles, California, 90007], 05/01/2021, 32 People, UNDERTHESEA Theme]
+ 2. ["Ellendale Dinner Party", [Ellendale Place, Los Angeles, California], 04/21/2021, 5 People]
+
+> 2
+
+You have successfully RSVP to the party.
+
+1. Check Evite Status
+2. Make a New Party
+3. Check Parties
+4. RSVP to a Party
+5. Logout
+
+> 5
+
+Goodbye!
